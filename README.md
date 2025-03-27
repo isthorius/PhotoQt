@@ -3,6 +3,8 @@
 ## Description
 PhotoQT is a lightweight image editor built with PyQt5 and PIL (Python Imaging Library). It allows basic image manipulation like rotation, filters, and adjustments.
 
+![images/demo.png]
+
 ## Features
 - Browse and select images from folders
 - Apply various image transformations:
@@ -44,9 +46,6 @@ PhotoQT is a lightweight image editor built with PyQt5 and PIL (Python Imaging L
 - Edited images are automatically saved in an "Edits/" subfolder
 - Original images remain unchanged
 - Supported formats: JPG, JPEG, PNG, SVG
-
-## Screenshot
-![Image editor interface with dark theme and transformation buttons]
 
 ## License
 Free to use and modify
